@@ -1,0 +1,5 @@
+# Note that statistics are wrt to uin8 range, [0,255].
+CIFAR_MEAN = [125.307, 122.961, 113.8575]
+CIFAR_STD = [51.5865, 50.847, 51.255]
+CIFAR_TRAIN_SIZE = 50000
+CIFAR_TEST_SIZE = 10000
