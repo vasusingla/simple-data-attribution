@@ -5,7 +5,7 @@ This work contains all the code for the paper **A Simple and Efficient Baseline 
 
 ### Installation
 
-This repository requires [FFCV](https://github.com/libffcv/ffcv) library, and [PyTorch](https://pytorch.org/). You can also install the environment via 
+This repository requires [FFCV](https://github.com/libffcv/ffcv) library, and [PyTorch](https://pytorch.org/). You can also install a very bloated environment via the following command. NOTE - This environment is bloated, and contains packages not required for this repository.
 
 ```
 conda env create -f environment.yml
@@ -60,7 +60,14 @@ To train CIFAR-10 SSL models, use the `self_supervised_models` subfolder. The `t
 If you find our code useful, please consider citing our work -
 
 ```
-TBD
+@misc{singla2023simple,
+      title={A Simple and Efficient Baseline for Data Attribution on Images}, 
+      author={Vasu Singla and Pedro Sandoval-Segura and Micah Goldblum and Jonas Geiping and Tom Goldstein},
+      year={2023},
+      eprint={2311.03386},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 If you run into any problems, please raise a Github Issue, we'll be happy to help!
