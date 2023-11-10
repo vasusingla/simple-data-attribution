@@ -1,6 +1,6 @@
 ## Simple Efficient Data Attribution
 
-This work contains all the code for the paper **A Simple and Efficient Baseline for Data Attribution on Images** by Vasu Singla, Pedro Sandoval-Segura, Micah Goldblum, Jonas Geiping, Tom Goldstein 
+This work contains all the code for the paper [A Simple and Efficient Baseline for Data Attribution on Images](https://arxiv.org/abs/2311.03386) by Vasu Singla, Pedro Sandoval-Segura, Micah Goldblum, Jonas Geiping, Tom Goldstein 
 
 
 ### Installation
